@@ -1,37 +1,103 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/manishpokharel/manishpokharel.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<html>
 
-### Markdown
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<title>Fort Mc Productions</title>
+		<link rel="stylesheet" href="style.css" type="text/css" />
+		
+	</head>
+	<body>
+	<div class="background">
+	  <div class="page">
+			  <div class="sidebar">
+				  <div id="logo">
+                     <a href="index.html"><img src="assets/logo101.png" alt="Fort Mc Logo"/></a>
+				</div>
+					<ul>
+					  <li><a href="index.html">Home</a></li>
+                      <li><a href="aboutus.html">About Us</a></li>
+						<li><a href="Members.html">Members</a></li>
+						<li><a href="Music.html">Music</a></li>
+						<li><a href="Videos.html">Videos</a></li>
+                        <li><a href="Gallery.html">Gallery</a></li>
+                        <li><a href="Events.html">Events</a></li>
+                        <li><a href="ThePeople.html">The People</a></li>
+                       
+                          <li><a href="ContactUs.html">Contact Us</a></li>
+					</ul>
+					<div class="connect">
+						<a href="https://www.facebook.com/pages/Fort-Emcee-Production/122337904487746?fref=ts" class="facebook">facebook</a>
+						<a href="https://twitter.com/Manishakafortmc" class="twitter">twitter</a>
+						<a href="https://vimeo.com/user17123827" class="vimeo">vimeo</a>
+					</div>
+			</div>
+			  <div class="body">
+					<div class="content">
+						<div class="figure"> <a href="assets/banner102.png"><img src="assets/banner102.png" alt="Fort Mc Banner" width="658" height="200"/></a>
+                       	
+							<p>	Hello folks,</p>
+						  <p>	Welcome to FORT MC Productions, the one and only website dediacted for the South Asian Communites. For the past few years we have seen a lot of South Asians immigrating to the US of A, and believe it or not this website is especially created for you and only you!!!!! To all the people, who miss their family, their culture and tradition, their music, their festival, worry not. We are always there for you.</p>
+						  <p>Do you know someone who you think is talented enough but not been able to grab the spotlight??? Do you have someone that you think deserves praise and accolades. Are you an artist who needs to</p>
+						  <p> promote his/her songs??? Are you looking for an event organizer but want the event to be organized in a traditional way??? Fear not, FORT MC will help you in all of these circustances.</p>
+							<p>So relax, take a deep breath, fasten you seat belts and get ready to be amazed.					  </p>
+					  
+					</div>
+                    <body> 
+<object align="center">
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+codebase="http://download.macromedia.com/pub/shockwave/
+cabs/flash/swflash.cab#version=6,0,40,0" 
+ 
+width="468" height="300" 
+ id="mymoviename"> 
 
-```markdown
-Syntax highlighted code block
+<param name="movie"  
 
-# Header 1
-## Header 2
-### Header 3
+value="carRace.swf" /> 
+ 
+<param name="quality" value="high" /> 
 
-- Bulleted
-- List
+<param name="bgcolor" value="#ffffff" /> 
 
-1. Numbered
-2. List
+<embed src="assets/carRace.swf" quality="high" bgcolor="#ffffff"
 
-**Bold** and _Italic_ and `Code` text
+width="568" height="400" 
 
-[Link](url) and ![Image](src)
-```
+name="mymoviename" align="" type="application/x-shockwave-flash" 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+pluginspage="http://www.macromedia.com/go/getflashplayer"> 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/manishpokharel/manishpokharel.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</embed> 
 
-### Support or Contact
+</object> 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+                    
+				<div class="footer">
+						<ul>
+							<li class="first">
+							  <a href="index.html">Home</a></li>
+                             
+							<li><a href="aboutus.html">About Us</a></li>
+							<li><a href="Members.html">Members</a></li>
+							<li><a href="Music.html">Music</a></li>
+                            <li><a href="Videos.html">Videos</a></li>
+                            <li><a href="Gallery.html">Gallery</a></li>
+                            <li><a href="Events.html">Events</a></li>
+                            <li><a href="ThePeople.html">The People</a></li>
+                            <li><a href="ContactUs.html">Contact Us</a></li>
+                            <li><a href="index2.html">Mobile Version</a></li>
+						</ul>
+						
+				</div>
+			</div>
+		  </div>
+	</div>
+	</div>
+    </body>
+</html>  
